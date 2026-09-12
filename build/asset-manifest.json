@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c59ecfa0.css",
+    "main.js": "/static/js/main.c1aee9f9.js",
+    "static/js/453.d817f505.chunk.js": "/static/js/453.d817f505.chunk.js",
+    "static/media/one.jpg": "/static/media/one.12b76efbbb90bc078bb2.jpg",
+    "static/media/femalLogo.png": "/static/media/femalLogo.d77e5dd704850ac30af8.png",
+    "index.html": "/index.html",
+    "main.c59ecfa0.css.map": "/static/css/main.c59ecfa0.css.map",
+    "main.c1aee9f9.js.map": "/static/js/main.c1aee9f9.js.map",
+    "453.d817f505.chunk.js.map": "/static/js/453.d817f505.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c59ecfa0.css",
+    "static/js/main.c1aee9f9.js"
+  ]
+}
